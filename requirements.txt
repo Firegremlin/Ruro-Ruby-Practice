@@ -1,0 +1,9 @@
+Requirements:
+
+Table structure (from what I understand):
+
+	Patient (first, last, dob, address, uid)
+	Doctor (first, last, uid) (V.D. - somethingsomething doctor?)
+	Visit record (doctor uid, patient uid, comment)
+
+Grid with paging and filtering (for visit records), patient list with add/remove. 
